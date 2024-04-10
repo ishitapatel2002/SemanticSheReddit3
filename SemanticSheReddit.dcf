@@ -1,0 +1,12 @@
+name: SemanticSheReddit
+title: SemanticSheReddit
+username: hd9591-ishita-patel
+account: hd9591-ishita-patel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11723484
+bundleId: 8477937
+url: https://hd9591-ishita-patel.shinyapps.io/SemanticSheReddit/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
